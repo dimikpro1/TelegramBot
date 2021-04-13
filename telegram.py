@@ -5,8 +5,8 @@ api_id = 2399529
 
 api_hash = '9e88c2cf3244966f02b0539304b6d2ad'
 
-my_channel_id = -1001452225253
-channels = [-1001492188593, -1001240018332]
+my_channel_id = -1001499977958
+channels = [-1001353053589, -1001240018332]
 
 client = TelegramClient('myGrab', api_id, api_hash)
 print("GRAB - Started")
